@@ -40,7 +40,7 @@
 
 ---
 
-[website]: https://codeSTACKr.com
+[website]: https://codingshogun.com/
 [twitter]: https://twitter.com/CodingShogun
 [instagram]: https://www.instagram.com/ankit_brahmbhatt/
 [linkedin]: https://www.linkedin.com/in/ankitbrahmbhatt1997/
